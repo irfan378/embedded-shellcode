@@ -1,0 +1,2 @@
+#define SC_ICON 7458
+SC_ICON RCDATA "calc32.ico"
